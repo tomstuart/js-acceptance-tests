@@ -1,5 +1,7 @@
 {
   "devDependencies": {
+    "wdio-chromedriver-service": "^0.1.2",
+    "wdio-jasmine-framework": "^0.3.2",
     "webdriverio": "^4.9.11"
   }
 }
